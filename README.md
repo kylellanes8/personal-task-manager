@@ -51,7 +51,17 @@ The system follows Laravel's MVC structure:
 - **Database** stores task information.
 - **Blade Views** display the user interface.
 
-## Student
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d906888-7a8c-4b13-b00a-4883fce2bf55" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f72c9fa6-4ccd-476a-9e42-dec0e50e76cb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46954ed4-b803-48f8-a05a-7cea7ecb2a2b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bdb00191-4707-456f-bb98-a00c5d74c2bc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee3fa6dd-a00b-48c3-9719-a1b5e045df7f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4889aa9-5943-4ef9-ab8b-22c395cb35bd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b9c4ece-d751-4475-9c02-2bdd0ff4ab82" />
 
-LLANES, KYLE S.
-BSIT-2
+
+
+
+
+
+
